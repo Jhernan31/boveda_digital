@@ -1,0 +1,4 @@
+1;Facebook.com;face;wereqg;10/08/2026;10/08/2027;hola
+1;Google.com;micorreo@gmail.com;12356;11/05/2025;12/05/3030;nada
+1;fantasia.com;eljuan;sdfsg;;;hola
+2;mipagina.com;elpedro;sfsgah;;;2143

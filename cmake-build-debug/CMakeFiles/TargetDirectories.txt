@@ -1,0 +1,3 @@
+C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug/CMakeFiles/BovedaDigital.dir
+C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug/CMakeFiles/rebuild_cache.dir

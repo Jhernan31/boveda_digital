@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\BovedaDigital.dir\\main.cpp.obj -c C:\\Users\\Hernan\\Documents\\WSU2026\\CS1410\\ProjectsC++\\BovedaDigital\\main.cpp",
+  "file": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/main.cpp",
+  "output": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug/CMakeFiles/BovedaDigital.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\BovedaDigital.dir\\Registro.cpp.obj -c C:\\Users\\Hernan\\Documents\\WSU2026\\CS1410\\ProjectsC++\\BovedaDigital\\Registro.cpp",
+  "file": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/Registro.cpp",
+  "output": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug/CMakeFiles/BovedaDigital.dir/Registro.cpp.obj"
+},
+{
+  "directory": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\BovedaDigital.dir\\ManejadorDB.cpp.obj -c C:\\Users\\Hernan\\Documents\\WSU2026\\CS1410\\ProjectsC++\\BovedaDigital\\ManejadorDB.cpp",
+  "file": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/ManejadorDB.cpp",
+  "output": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug/CMakeFiles/BovedaDigital.dir/ManejadorDB.cpp.obj"
+},
+{
+  "directory": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -fdiagnostics-color=always -o CMakeFiles\\BovedaDigital.dir\\driver.cpp.obj -c C:\\Users\\Hernan\\Documents\\WSU2026\\CS1410\\ProjectsC++\\BovedaDigital\\driver.cpp",
+  "file": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/driver.cpp",
+  "output": "C:/Users/Hernan/Documents/WSU2026/CS1410/ProjectsC++/BovedaDigital/cmake-build-debug/CMakeFiles/BovedaDigital.dir/driver.cpp.obj"
+}
+]
